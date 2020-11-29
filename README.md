@@ -1,6 +1,6 @@
 # About Facet
 
-## A social media company for the disenformed and disenfranchised.
+## A social media company for the disinformed and disenfranchised.
 
 Facet is a non-profit organization whose mission is to:
 - facilitate people collectively finding solutions to our own problems
