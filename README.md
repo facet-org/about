@@ -7,9 +7,9 @@ Facet is a non-profit organization whose mission is to:
 - directing one another towards solving those problems
 
 Facet (organization) is currently:
-- [x] being planned
-- [ ] being formed
-- [ ] fully formed
+- [x] Being planned
+- [ ] Being formed
+- [ ] Fully formed
 
 Facet (product) is currently:
 - [x] Being planned
